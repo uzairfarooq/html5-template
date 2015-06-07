@@ -1,5 +1,5 @@
-# html5-template
-Use html5 templates to inject DOM elements from external files
+# simple-templating
+Very lightweight library to inject html templates from external files (makes use of html5 `template` tag internally)
 
 ## Usage
 
